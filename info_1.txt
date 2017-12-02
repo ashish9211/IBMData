@@ -1,0 +1,18 @@
+1.Find out the employee number and dept of employee who does overtime?
+2.Find out last 5 employees based on last promotion received?
+3.Find out the list of employee whose income is more than the average income of all the employee’s present in the same department?
+Age[0],
+Attrition[1],
+BusinessTravel[2],
+DailyRate[3],
+Department[4],
+DistanceFromHome[5],Education[6],EducationField[7],EmployeeCount[8],EmployeeNumber[9],
+EnvironmentSatisfaction[10],Gender[11],
+HourlyRate[12],JobInvolvement[13],JobLevel[14],JobRoll[15],JobSatisfaction[16],
+MaritalStatus[17],MonthlyIncome[18],MonthlyRate[19],NumCompaniesWorked[20],Over18[21],OverTime[22],PercentSalaryHike[23],PerformanceRating[24],
+RelationshipSatisfaction[25],StandardHours[26],StockOptionLevel[27],TotalWorkingYears[28],
+TrainingTimesLastYear[29],WorkLifeBalance[30],
+YearsAtCompany[31],YearsInCurrentRole[32],YearsSinceLastPromotion[33],YearsWithCurrManager[34].
+
+58,No,Travel_Rarely,682,Sales,10,4,Medical,1,131,4,Male,37,3,4,Sales Executive,3,Single,13872,24409,0,Y,No,13,3,3,80,0,38,1,2,37,10,1,8
+
